@@ -126,7 +126,7 @@ else:
 
     st.subheader("📈 Evolución Temporal del Rendimiento")
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=df.index, y=df['Cum_Strategy']*100, name="Estrategia", line=dict(color='emerald', width=2)))
+    fig.add_trace(go.Scatter(x=df.index, y=df['Cum_Strategy']*100, name="Estrategia", line=dict(color='green', width=2)))
     fig.add_trace(go.Scatter(x=df.index, y=df['Cum_BuyHold']*100, name="Mercado (Comprar y Mantener)", line=dict(color='gray', width=1.5, dash='dash')))
     
     fig.update_layout(
