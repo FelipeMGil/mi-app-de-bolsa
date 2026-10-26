@@ -1,6 +1,6 @@
-# 🤖 Informe Automático Cuantitativo (2026-10-23 21:18)
+# 🤖 Informe Automático Cuantitativo (2026-10-26 22:34)
 * **Activo Analizado:** ^IBEX
-* **Precio de Cierre de Hoy:** 18989.80
+* **Precio de Cierre de Hoy:** 19033.30
 
 ## 📊 Estado de las Estrategias de Tendencia:
 * **Cruce 20/50 (Corto/Medio plazo):** El mercado se encuentra en fase de **BAJA (Bajista)**.
