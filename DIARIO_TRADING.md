@@ -1,4 +1,4 @@
-# 🤖 Informe Automático Cuantitativo (2026-11-12 00:29)
+# 🤖 Informe Automático Cuantitativo (2026-11-12 23:28)
 * **Activo Analizado:** ^IBEX
 * **Precio de Cierre de Hoy:** nan
 
